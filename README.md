@@ -40,7 +40,6 @@ admin.site.register(Bankloan,loan)
 ```
 # OUTPUT
 ![alt text](<Screenshot 2024-12-06 161050.png>)
-![alt text](<Screenshot 2024-12-06 161200.png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
